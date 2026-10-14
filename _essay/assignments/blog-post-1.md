@@ -19,6 +19,6 @@ Works Cited
 
 Murrieta-Flores, Patricia. “Teaching Machines to Read the Conquest of America: Unlocking 500 Years of Real Data from the Colonial Archive with AI.” DH+AI Lecture.
 
-Murrieta-Flores, Patricia, et al. “Unlocking Colonial Records with Artificial Intelligence: Achieving the Automated Transcription of Large-Scale 16th- and 17th-Century Latin American Historical Collections.” STAR: Science & Technology of Archaeological Research, vol. 11, no. 1, 2025, article e2484828. https://doi.org/10.1080/20548923.2025.2484828.
+Murrieta-Flores, Patricia, et al. “Unlocking Colonial Records with Artificial Intelligence: Achieving the Automated Transcription of Large-Scale 16th- and 17th-Century Latin American Historical Collections.” STAR: Science & Technology of Archaeological Research, vol. 11, no. 1, 2025, https://doi.org/10.1080/20548923.2025.2484828.
 
 Murrieta-Flores, Patricia, and Shanmugapriya T. “Computational Approaches to Cultural Heritage in the Global South: Infrastructures, Analytics, and Epistemic Justice.” Journal of Cultural Analytics, vol. 11, no. 2, 2026, pp. 1–13. https://doi.org/10.22148/jca.1510.
